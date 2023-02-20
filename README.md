@@ -1,2 +1,1 @@
-# dentonpalooza
-# will return 2023
+# dentonpalooza will return in 2023
